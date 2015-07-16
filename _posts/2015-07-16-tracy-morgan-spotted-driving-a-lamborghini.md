@@ -26,7 +26,7 @@ app_links: []
 isBasedOnUrl: 'http://www.usatoday.com/story/life/people/2015/07/14/tracy-morgan-driving-lamborghini-new-york-steve-lacy/30125651/'
 title: Tracy Morgan spotted driving a Lamborghini
 datePublished: '2015-07-16T01:26:14.408Z'
-dateModified: '2015-07-16T01:27:50.678Z'
+dateModified: '2015-07-16T02:25:13.020Z'
 sourcePath: _posts/2015-07-16-tracy-morgan-spotted-driving-a-lamborghini.md
 published: true
 _context: 'http://schema.org'
