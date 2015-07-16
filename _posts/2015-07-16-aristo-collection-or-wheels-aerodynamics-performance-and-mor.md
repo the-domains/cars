@@ -23,7 +23,7 @@ app_links: []
 isBasedOnUrl: 'http://aristocollection.com/'
 title: 'Aristo Collection | Wheels, Aerodynamics, Performance, & More!'
 datePublished: '2015-07-16T01:34:16.021Z'
-dateModified: '2015-07-16T02:24:05.004Z'
+dateModified: '2015-07-16T02:25:13.045Z'
 sourcePath: _posts/2015-07-16-aristo-collection-or-wheels-aerodynamics-performance-and-mor.md
 published: true
 _context: 'http://schema.org'
